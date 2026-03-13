@@ -22,10 +22,8 @@ Se utilizó como referencia la implementación existente para las entidades Alma
   Contiene los controladores de la API y la configuración de la aplicación.
 
 # Ejecución del proyecto xd
-* Clonar el repositorio
 
-* Abrir la solución en Visual Studio Installer 2026
-
-* Restaurar paquetes NuGet
-
-* Ejecutar el proyecto desde la capa Presentation
+## * Clonar el repositorio
+## * Abrir la solución en Visual Studio Installer 2026
+## * Restaurar paquetes NuGet
+## * Ejecutar el proyecto desde la capa Presentation
