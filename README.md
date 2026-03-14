@@ -27,4 +27,3 @@ Se utilizó como referencia la implementación existente para las entidades Alma
 ## * Abrir la solución en Visual Studio Installer 2026
 ## * Restaurar paquetes NuGet
 ## * Ejecutar el proyecto desde la capa Presentation
-# imagenes/estructura.png 
